@@ -1,0 +1,4 @@
+interface:
+  display_name: "Google XHS Tutorial Carousel"
+  short_description: "Clean Google-style tutorial carousel cards"
+  default_prompt: "Use $google-xhs-tutorial-carousel to create a clean Google-style 3:4 Xiaohongshu tutorial carousel prompt set."
